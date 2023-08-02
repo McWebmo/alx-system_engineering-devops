@@ -28,3 +28,6 @@
 
 # 8-firstdelete
 ### a script that deletes the file betty, which is located in /tmp/my_first_directory
+
+# 9-firstdirdeletion
+### a script that deletes the directory my_first_directory that is in the /tmp directory.
