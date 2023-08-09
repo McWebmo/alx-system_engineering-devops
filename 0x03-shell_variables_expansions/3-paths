@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH > test | grep -0 ":" test | wc -l
+echo $PATH | tr ":" "\n" | wc -l
